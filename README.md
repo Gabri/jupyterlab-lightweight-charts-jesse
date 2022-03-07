@@ -5,6 +5,16 @@ This repository is basing on the source of [lightweight-charts-jupyter-bridge](h
 
 For additional information about Jupyter notebooks on Jesse [take a look here](https://docs.jesse.trade/docs/research/jupyter.html)
 
+To use this library just add `lightweight.py` in the jesse root folder and start coding your Jupyter notebook or just copy the example in this repo `jupyter-with-lightweight-charts.ipynb`. Don't forget to adjust this piece of code basing on your needs:
+```
+date_start = date(2021, 6, 1)
+date_end = date(2021, 7, 15)
+
+exchange = 'FTX Futures'
+pair = 'BTC-USD'
+```
+and, of course, you have to import the candles needed from the exchange indicated.
+
 I added some new features to the original library `lightweight.py`:
 - Candlestick chart
 - Volume histogram
