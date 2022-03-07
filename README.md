@@ -16,4 +16,3 @@ In the jupyterlab file I set:
 
 ![Animated example](jupyterlab_lightweightchart_example.gif)
 
-![](https://github.com/Gabri/jupyterlab-lightweight-charts-jesse/blob/main/jupyterlab_lightweightchart_example.mp4)
