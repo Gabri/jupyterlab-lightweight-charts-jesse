@@ -3,6 +3,8 @@ lightweight-charts integration with jupyterlab, using jesse framework to import 
 
 This repository comes with idea and initial source of [lightweight-charts-jupyter-bridge](https://github.com/tartakovsky/lightweight-charts-jupyter-bridge) of tartakovsky. Big thanks to him.
 
+For additional information about Jupyter notebooks on Jesse [take a look here](https://docs.jesse.trade/docs/research/jupyter.html)
+
 I added some new features to the original library `lightweight.py`:
 - Candlestick chart
 - Volume histogram
