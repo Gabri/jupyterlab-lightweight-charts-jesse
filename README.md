@@ -14,4 +14,4 @@ I added some new features like to the library `lightweight.py`:
 In the jupyterlab file I set:
 - wide view of cells (why using them so small?  :) )
 
-https://github.com/Gabri/jupyterlab-lightweight-charts-jesse/blob/main/jupyterlab_lightweightchart_dark-volume.mp4
+https://github.com/Gabri/jupyterlab-lightweight-charts-jesse/blob/main/jupyterlab_lightweightchart_example.mp4
