@@ -1,7 +1,7 @@
 # jupyterlab-lightweight-charts-jesse
 lightweight-charts integration with jupyterlab, using jesse framework to import candles and and use indicators but you can do it with other libraries and sources
 
-This repository comes with idea and initial source of [lightweight-charts-jupyter-bridge](https://github.com/tartakovsky/lightweight-charts-jupyter-bridge) of tartakovsky. Big thanks to him.
+This repository is basing on the source of [lightweight-charts-jupyter-bridge](https://github.com/tartakovsky/lightweight-charts-jupyter-bridge). Big thanks to him.
 
 For additional information about Jupyter notebooks on Jesse [take a look here](https://docs.jesse.trade/docs/research/jupyter.html)
 
